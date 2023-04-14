@@ -24,6 +24,5 @@ This repo contains 2 shell scripts to:
   The key files will be in unencrypted PKCS8.  
   
 # To Do
-- Test to see if this will create a "wildcard" certificate
 - I may add more options later to create in PKCS12/PFX/DER
 - I may add more options later to create keys in PKCS1 encrypted/unencrypted
